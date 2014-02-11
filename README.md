@@ -1,5 +1,8 @@
-evsource
+Ectroverse
 ========
+
+Notice: This version is now depricated and no longer maintained, it is provided purely for nostalgic reasons.
+
 To install the game:
 Edit config.h and change the directory lines at the bottom to your Ectroverse folders.
 
@@ -18,6 +21,3 @@ To change the username, password and server ports, you can see the config.h file
 
 KNOWN BUGS - Very annoying and need to go:
 * ... ?
-
-
-Play the offshoot NEctroverse at https://www.nectroverse.net/
